@@ -3,7 +3,8 @@ import React from 'react';
 
 const Square = ({ value, onClick }) => {
   const squareStyle = {
-    backgroundColor: '#e5e5e5',
+    backgroundColor: 'black',
+    color:"white",
     height: '100px',
     width: '100px',
     fontSize: '3em',
